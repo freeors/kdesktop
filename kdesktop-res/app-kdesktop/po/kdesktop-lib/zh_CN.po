@@ -1,0 +1,437 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdesktop-lib\n"
+"Report-Msgid-Bugs-To: http://www.libsdl.cn/\n"
+"POT-Creation-Date: 2021-06-19 13:39+0800\n"
+"PO-Revision-Date: 2021-06-19 13:41+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese/Simplified <i18n-translation@lists.linux.net.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3.1\n"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/_bonus.cpp:1
+msgid "kdesktop"
+msgstr "kDesktop"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:1
+msgid "Cancel"
+msgstr "取消"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:3
+msgid "Enter desktop"
+msgstr "进入桌面"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:5
+msgid "Gateway"
+msgstr "网关"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:7
+msgid "IP addr"
+msgstr "IP地址"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:9
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:400
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:404
+msgid "Login"
+msgstr "登录"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:11
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:423
+msgid "Logout"
+msgstr "退出登录"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:13
+msgid "Subnet mask"
+msgstr "子网掩码"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:15
+msgid "Synchronize applet"
+msgstr "同步小程序"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:17
+msgid "Update"
+msgstr "修改"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:230
+msgid "Start decoder"
+msgstr "启动解码器"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:239
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1504
+msgid "Local"
+msgstr "本地"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:569
+msgid "Fail"
+msgstr "失败"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:569
+msgid "Success"
+msgstr "成功"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:570
+msgid "Start decoder $result"
+msgstr "启动解码器$result"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:572
+msgid "Decoder is ready"
+msgstr "解码器已就绪"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:915
+msgid "Visible area display $percent%"
+msgstr "显示$percent%桌面"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1503
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:76
+msgid "Remote"
+msgstr "远程"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1505
+msgid "$src ---> $dst"
+msgstr "$src ---> $dst"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1554
+msgid "Delete"
+msgstr "删除"
+
+#: apps-src/apps/kdesktop/gui/dialogs/ethernetip.cpp:53
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:112
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:547
+msgid "Update IP"
+msgstr "修改IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:74
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:556
+msgid "Remote desktop"
+msgstr "远程桌面"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:80
+msgid "Remote IP"
+msgstr "远程IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:83
+msgid "Applet"
+msgstr "小程序"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:86
+msgid "More"
+msgstr "更多"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:119
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:285
+msgid "Landscape"
+msgstr "横屏"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:119
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:285
+msgid "Portrait"
+msgstr "竖屏"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:134
+msgid "When switching mode, can select '$item'"
+msgstr "切换模式时，可以选“$item”"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:198
+msgid "Download from Applet Store"
+msgstr "从小程序商店下载"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:199
+msgid "Download test version"
+msgstr "下载测试版本小程序"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:222
+msgid "OK"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:236
+msgid "Get applet"
+msgstr "下载小程序"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:113
+msgid "scan help $updateip"
+msgstr ""
+"一、要能查询、修改IP，Launcher需V1.0.5-20210619或以上。\n"
+"二、“修改IP”是通过修改连接哪个Wifi网络，不能改有线网。“修改IP”的目的往往是改"
+"出一个“”临时“IP，让之后可用它进行远程桌面。"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:206
+msgid "Scan again"
+msgstr "重新扫描"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:213
+msgid "Query IP"
+msgstr "查询IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:219
+msgid "Connecting"
+msgstr "连接中"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:222
+msgid "Send request"
+msgstr "发送请求"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:225
+msgid "Waiting response"
+msgstr "等待应答"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:233
+msgid "Version dismatch"
+msgstr "版本不匹配"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:235
+msgid "Unsupport af: "
+msgstr "不支持af："
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:242
+msgid "Connect fail"
+msgstr "连接失败"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:245
+msgid "Get serviceDB fail"
+msgstr "获取Service失败"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:248
+msgid "ServiceDB error"
+msgstr "Service数据错误"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:251
+msgid "Unknown error"
+msgstr "未知错误"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:255
+msgid "Unknown device, don't query"
+msgstr "未知设备，不查询"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:430
+msgid "Wifi is enabled"
+msgstr "已开启Wifi"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:430
+msgid "Wifi is disabled"
+msgstr "未开启Wifi"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:434
+msgid "Using IP: $ip"
+msgstr "正使用IP：$ip"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:530
+msgid "Invalid SN"
+msgstr "无效SN"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:583
+msgid "Connected"
+msgstr "已连接"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:713
+msgid "Password"
+msgstr "密码"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:713
+msgid "Connect"
+msgstr "连接"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:766
+msgid ""
+"The device does not enable Wifi, update IP will automatically enable Wifi on "
+"the device, do you want to continue?"
+msgstr "该远程设备没开启Wifi，修改IP会自动开启该设备上的Wifi，要继续吗？"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:767
+msgid "Continue"
+msgstr "继续"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:798
+msgid "Scan will stop after $elapse"
+msgstr "$elapse后结束扫描"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:810
+msgid "BLE was connectioned, $time received Wifi List"
+msgstr "蓝牙已连接，$time时收到Wifi列表"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:815
+msgid "BLE connection was disconnected, and for $elapse"
+msgstr "蓝牙连接已断开，已持续$elapse"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:923
+msgid "Can not get IP within limited time"
+msgstr "不能在规定时间内查出IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:925
+msgid "Can not update IP within limited time"
+msgstr "不能在规定时间内修改IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:959
+msgid ""
+"Do you want to delete SSID: $ssid? Once deleted, the password needs to be re-"
+"entered when connecting again"
+msgstr "是否删除Wifi网络：$ssid？一旦删除，再次连接时需要重新输入密码"
+
+#: apps-src/apps/kdesktop/main.cpp:56
+msgid "Scale to screen"
+msgstr "拉伸到满区域"
+
+#: apps-src/apps/kdesktop/main.cpp:57
+msgid "Keep aspect ratio"
+msgstr "保持宽高比"
+
+#: apps-src/apps/kdesktop/main.cpp:58
+msgid "Partial"
+msgstr "部分显示"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:293
+msgid "Connect to $ip"
+msgstr "连接$ip"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:301
+msgid "Cannot create local socket"
+msgstr "不能断建本地socket"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:309
+msgid "Connect fail. errcode: $errcode"
+msgstr "连接失败。错误码：$errcode"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:373
+msgid "Start SSL handshake"
+msgstr "开始SSL握手"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:421
+msgid "SSL handshake success"
+msgstr "SSL握手成功"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:438
+msgid "Send MCS Connect Initial PDU"
+msgstr "发送MSC Connect Initial PDU"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:551
+msgid "Finish connection sequence"
+msgstr "完成RDP连接流程"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:630
+msgid "Close connect because error. errcode: $errcode"
+msgstr "遇到错误而关闭网络连接。错误码：$errcode"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:632
+msgid "Close connect"
+msgstr "关闭网络连接"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:960
+msgid "Hasn't received RTT Measure Request over $time, think as disconnect"
+msgstr "已持续$time没收到RTT Measure Request，认为连接已断开"
+
+#~ msgid "Generate"
+#~ msgstr "生成"
+
+#~ msgid "$file isn't existed"
+#~ msgstr "$file不存在"
+
+#~ msgid "$file isn't a valid wml file"
+#~ msgstr "$file不是一个有效的wml文件"
+
+#~ msgid "A valid uuid is not specified in the file"
+#~ msgstr "文件中没指定一个有效的uuid"
+
+#~ msgid "There must be at least one SN in the file"
+#~ msgstr "文件中至少须存在一个序列号"
+
+#~ msgid "Generate $file successfully"
+#~ msgstr "生成$file，成功"
+
+#~ msgid "Device login"
+#~ msgstr "设备登录"
+
+#~ msgid "Server's IP or domain"
+#~ msgstr "服务器IP或域名"
+
+#~ msgid "Server's port"
+#~ msgstr "服务器端口"
+
+#~ msgid "Device code"
+#~ msgstr "设备编码"
+
+#~ msgid "Operator username"
+#~ msgstr "操作员账号"
+
+#~ msgid "Do you want to login using other device code?"
+#~ msgstr "你想用另一个设备编码登录吗？"
+
+#~ msgid "It will logout automaticly"
+#~ msgstr "一旦启动切换，设备将自动先退出登录"
+
+#~ msgid "Yes"
+#~ msgstr "是"
+
+#~ msgid "Access"
+#~ msgstr "门禁"
+
+#~ msgid "Event"
+#~ msgstr "事件"
+
+#~ msgid "QRcode"
+#~ msgstr "二维码识别"
+
+#~ msgid "terminal^access remark"
+#~ msgstr ""
+#~ "v1.2.1或之后的手持终端只能控制v1.2.1或之后的门禁。如果要控制低于v1.2.1的门"
+#~ "禁，请使用低版本的手持终端"
+
+#~ msgid "$channels channels"
+#~ msgstr "$channels个通道"
+
+#~ msgid "Will keepalive automatically after $elapse"
+#~ msgstr "在$elapse后会自动向服务器发心跳"
+
+#~ msgid ""
+#~ "Device is not logged on to the server, will login automatically after "
+#~ "$elapse"
+#~ msgstr "设备没登录服务器，$elapse后会自动重新登录"
+
+#~ msgid "Block all"
+#~ msgstr "常闭"
+
+#~ msgid "Bypass"
+#~ msgstr "常开"
+
+#~ msgid "Generate qrcode"
+#~ msgstr "生成二维码"
+
+#~ msgid "Open door"
+#~ msgstr "开门"
+
+#~ msgid "Operator login"
+#~ msgstr "操作员登录"
+
+#~ msgid "Smart access"
+#~ msgstr "智能出入口管理"
+
+#~ msgid "Stop status"
+#~ msgstr "结束状态"
+
+#~ msgid "Switch devicecode"
+#~ msgstr "切换设备编码"
+
+#~ msgid "Voice broadcast"
+#~ msgstr "语音播报"
+
+#~ msgid "Updating IP, from $src to $dst"
+#~ msgstr "正在修改IP，从$src到$dst"
+
+#~ msgid "Scan"
+#~ msgstr "扫描设备"
+
+#~ msgid "RD Client"
+#~ msgstr "远程桌面"
+
+#~ msgid "Launcher's version($cur) must >= $min"
+#~ msgstr "不支持的RDP Server($cur)。Server必须是Launcher，且版本至少$min"
+
+#~ msgid "The percentage of the desktop that is displayed when mode is partial"
+#~ msgstr "模式是显示部分远程桌面时，显示部分占桌面的百分比"
+
+#~ msgid "Enlarge"
+#~ msgstr "放大"

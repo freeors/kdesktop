@@ -1,0 +1,320 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdesktop-lib\n"
+"POT-Creation-Date: 2021-06-19 13:39+0800\n"
+"PO-Revision-Date: 2016-01-03 20:34+0800\n"
+"Last-Translator: service <service@leagor.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: _;vgettext2\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: apps-src/apps/kdesktop\n"
+"X-Poedit-SearchPath-1: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib\n"
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/_bonus.cpp:1
+msgid "kdesktop"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:1
+msgid "Cancel"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:3
+msgid "Enter desktop"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:5
+msgid "Gateway"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:7
+msgid "IP addr"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:9
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:400
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:404
+msgid "Login"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:11
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:423
+msgid "Logout"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:13
+msgid "Subnet mask"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:15
+msgid "Synchronize applet"
+msgstr ""
+
+#: apps-res/app-kdesktop/po/cfg-cpp/kdesktop-lib/gui.cpp:17
+msgid "Update"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:230
+msgid "Start decoder"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:239
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1504
+msgid "Local"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:569
+msgid "Fail"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:569
+msgid "Success"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:570
+msgid "Start decoder $result"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:572
+msgid "Decoder is ready"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:915
+msgid "Visible area display $percent%"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1503
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:76
+msgid "Remote"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1505
+msgid "$src ---> $dst"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1554
+msgid "Delete"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/ethernetip.cpp:53
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:112
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:547
+msgid "Update IP"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:74
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:556
+msgid "Remote desktop"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:80
+msgid "Remote IP"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:83
+msgid "Applet"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:86
+msgid "More"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:119
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:285
+msgid "Landscape"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:119
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:285
+msgid "Portrait"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:134
+msgid "When switching mode, can select '$item'"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:198
+msgid "Download from Applet Store"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:199
+msgid "Download test version"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:222
+msgid "OK"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:236
+msgid "Get applet"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:113
+msgid "scan help $updateip"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:206
+msgid "Scan again"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:213
+msgid "Query IP"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:219
+msgid "Connecting"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:222
+msgid "Send request"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:225
+msgid "Waiting response"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:233
+msgid "Version dismatch"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:235
+msgid "Unsupport af: "
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:242
+msgid "Connect fail"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:245
+msgid "Get serviceDB fail"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:248
+msgid "ServiceDB error"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:251
+msgid "Unknown error"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:255
+msgid "Unknown device, don't query"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:430
+msgid "Wifi is enabled"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:430
+msgid "Wifi is disabled"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:434
+msgid "Using IP: $ip"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:530
+msgid "Invalid SN"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:583
+msgid "Connected"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:713
+msgid "Password"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:713
+msgid "Connect"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:766
+msgid "The device does not enable Wifi, update IP will automatically enable Wifi on the device, do you want to continue?"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:767
+msgid "Continue"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:798
+msgid "Scan will stop after $elapse"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:810
+msgid "BLE was connectioned, $time received Wifi List"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:815
+msgid "BLE connection was disconnected, and for $elapse"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:923
+msgid "Can not get IP within limited time"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:925
+msgid "Can not update IP within limited time"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:959
+msgid "Do you want to delete SSID: $ssid? Once deleted, the password needs to be re-entered when connecting again"
+msgstr ""
+
+#: apps-src/apps/kdesktop/main.cpp:56
+msgid "Scale to screen"
+msgstr ""
+
+#: apps-src/apps/kdesktop/main.cpp:57
+msgid "Keep aspect ratio"
+msgstr ""
+
+#: apps-src/apps/kdesktop/main.cpp:58
+msgid "Partial"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:293
+msgid "Connect to $ip"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:301
+msgid "Cannot create local socket"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:309
+msgid "Connect fail. errcode: $errcode"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:373
+msgid "Start SSL handshake"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:421
+msgid "SSL handshake success"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:438
+msgid "Send MCS Connect Initial PDU"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:551
+msgid "Finish connection sequence"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:630
+msgid "Close connect because error. errcode: $errcode"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:632
+msgid "Close connect"
+msgstr ""
+
+#: apps-src/apps/kdesktop/rdp_client.cc:960
+msgid "Hasn't received RTT Measure Request over $time, think as disconnect"
+msgstr ""
